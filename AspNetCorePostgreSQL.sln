@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCorePostgreSQL.API", "AspNetCorePostgreSQL.API\AspNetCorePostgreSQL.API.csproj", "{A1D675B7-9AB5-483A-854D-7536FEAAA711}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCorePostgreSQL.TEST", "AspNetCorePostgreSQL.TEST\AspNetCorePostgreSQL.TEST.csproj", "{B3ED425E-43D4-44DB-A72E-D3BD6FF6303E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1D675B7-9AB5-483A-854D-7536FEAAA711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D675B7-9AB5-483A-854D-7536FEAAA711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D675B7-9AB5-483A-854D-7536FEAAA711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D675B7-9AB5-483A-854D-7536FEAAA711}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3ED425E-43D4-44DB-A72E-D3BD6FF6303E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3ED425E-43D4-44DB-A72E-D3BD6FF6303E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3ED425E-43D4-44DB-A72E-D3BD6FF6303E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3ED425E-43D4-44DB-A72E-D3BD6FF6303E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FC87CA7-28ED-4258-830F-DF33D9C9E6FC}
+	EndGlobalSection
+EndGlobal
